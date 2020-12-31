@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApplicationApp",
+    "\\Infrastructure",
+    "\\Infrastructure\\Configuration"
+  ],
+  "SelectedNode": "\\Infrastructure\\Configuration\\ContextBase.cs",
+  "PreviewInSolutionExplorer": false
+}
